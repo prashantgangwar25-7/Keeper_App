@@ -5,4 +5,4 @@ An App that helps you store your notes or any other information. You can also de
 Built with the help of **React**, **CSS**.
 
 ## Hosted
-https://keeper-prashant-gangwar.onrender.com/
+https://keeper-prashant-gangwar.vercel.app/
